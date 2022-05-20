@@ -1,4 +1,4 @@
-#h2 Atividades POO
+## Atividades POO
 
 As atividades foram implementadas num único projeto, separadas por packages, onde cada exercício tem o seus respectivos packages e/ou main para rodar.
 
